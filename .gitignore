@@ -1,0 +1,15 @@
+.env
+BUILD.md
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+./docker
+docker-compose.dev.yml
+docker-compose.nginx.yml
+docker-compose.phpmyadmin.yml
+docker-compose.test.yml
+docker-compose.yml
+Dockerfile
+INSTALL.md
+README.md
+SECURITY.md
+UPGRADE.md
