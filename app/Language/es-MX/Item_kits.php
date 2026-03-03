@@ -22,7 +22,7 @@ return [
     "items"                     => "Artículos",
     "kit"                       => "ID del Kit",
     "kit_and_components"        => "Kits y Componentes",
-    "kit_and_stock"             => "Kit y Stock",
+    "kit_and_stock"             => "Kit y Existencia",
     "kit_only"                  => "Sólo kit",
     "name"                      => "Nombre del Kit de Artículos",
     "new"                       => "Nuevo Kit de Artículos",
@@ -37,6 +37,6 @@ return [
     "successful_adding"         => "Has agregado un kit de artículos",
     "successful_deleted"        => "Se ha borrado correctamente",
     "successful_updating"       => "Kit de Artículos actualizado",
-    "unit_price"                => "",
+    "unit_price"                => "Precio de venta",
     "update"                    => "Actualizar Kit de Artículos",
 ];

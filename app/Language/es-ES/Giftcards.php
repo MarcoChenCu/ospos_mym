@@ -16,7 +16,7 @@ return [
     "confirm_bulk_edit"                  => "¿Seguro(a) de querer editar las tarjetas de regalo seleccionadas?",
     "confirm_delete"                     => "¿Seguro(a) de querer eliminar las tarjetas de regalo seleccionadas?",
     "confirm_restore"                    => "Esta seguro de querer restaurar la(s) entrada(s) seleccionada(s)?",
-    "cost_price"                         => "Precio al Por Mayor",
+    "cost_price"                         => "Precio de compra",
     "count"                              => "Actualizar Inventario",
     "csv_import_failed"                  => "Falló, se recomeinda usar LibreOffice.",
     "current_quantity"                   => "Cantidad Actual",

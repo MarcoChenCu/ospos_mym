@@ -42,8 +42,8 @@ return [
     "suppliers_desc"             => "Agregar, Actualizar, Borrar, y Buscar Proveedores.",
     "taxes"                      => "Impuestos",
     "taxes_desc"                 => "Configurar los Impuestos sobre las Ventas.",
-    "timeclocks"                 => "",
-    "timeclocks_categories"      => "",
-    "timeclocks_categories_desc" => "",
-    "timeclocks_desc"            => "",
+    "timeclocks"                 => "Relojes de tiempo",
+    "timeclocks_categories"      => "Categorías de Relojes de tiempo",
+    "timeclocks_categories_desc" => "Descripción de categorías de relojes de tiempo",
+    "timeclocks_desc"            => "Descripción de relojes de tiempo",
 ];

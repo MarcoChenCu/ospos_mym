@@ -1,6 +1,6 @@
 <?php
 
 return [
-    "no_permission_module" => "No tienes permiso para acceder el módulo llamado",
+    "no_permission_module" => "No tienes permiso para acceder a este módulo",
     "unknown"              => "Error inesperado",
 ];

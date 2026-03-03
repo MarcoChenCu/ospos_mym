@@ -10,6 +10,5 @@ docker-compose.test.yml
 docker-compose.yml
 Dockerfile
 INSTALL.md
-README.md
 SECURITY.md
 UPGRADE.md
